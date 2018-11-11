@@ -1,4 +1,4 @@
-brunch build --production
+webpack --mode production
 
 cd $phoenix_dir
 
